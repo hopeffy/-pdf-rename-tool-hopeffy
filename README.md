@@ -19,3 +19,7 @@ pdf-rename
 The script will scan all PDF files in the current directory, identify their titles, and rename them accordingly.
 
 **Note:** This is a placeholder README. You can update it with more details.
+
+## PyPI Project
+
+https://pypi.org/project/pdf-rename-tool-hopeffy/0.0.1/
