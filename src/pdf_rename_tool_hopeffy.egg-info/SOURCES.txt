@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/pdf_rename_tool_hopeffy.egg-info/PKG-INFO
+src/pdf_rename_tool_hopeffy.egg-info/SOURCES.txt
+src/pdf_rename_tool_hopeffy.egg-info/dependency_links.txt
+src/pdf_rename_tool_hopeffy.egg-info/entry_points.txt
+src/pdf_rename_tool_hopeffy.egg-info/requires.txt
+src/pdf_rename_tool_hopeffy.egg-info/top_level.txt

@@ -1,0 +1,37 @@
+Metadata-Version: 2.4
+Name: pdf-title-renamer
+Version: 0.0.1
+Summary: A Python utility to rename PDF files based on their titles.
+Home-page: https://github.com/hopeffy/pdf-title-renamer
+Author: Eftelya
+Author-email: eftelyacelik@email.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pdfplumber
+Dynamic: license-file
+
+# PDF Title Renamer
+
+A simple Python utility to automatically rename PDF files based on the title found on their first page.
+
+## Installation
+
+```bash
+pip install pdf-title-renamer
+```
+
+## Usage
+
+Navigate to the directory containing your PDF files and run the following command:
+
+```bash
+pdf-rename
+```
+
+The script will scan all PDF files in the current directory, identify their titles, and rename them accordingly.
+
+**Note:** This is a placeholder README. You can update it with more details.
